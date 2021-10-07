@@ -1,0 +1,41 @@
+.vaga{
+    height: 33px !important;;  
+    width: 33px !important;; 
+    margin-bottom: 0 !important; 
+
+
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: 0 !important;
+}
+
+.widget-body{
+    padding: 6px !important;    
+    padding-top: 9px !important;
+    font-size: 0.7rem !important;
+}
+
+.home-widget{
+    padding: 20px 20px !important;
+}
+
+
+@media (max-width: 600px) 
+{
+    .vaga{
+        height: 20px !important;
+        width: 25px !important; 
+        font-size: 0.6rem !important;
+
+    }
+
+    .widget-body{
+        padding: 2px!important;  
+        padding-top: 3px !important;
+    }
+
+    .home-widget{
+        padding: 20px 20px !important;
+    }
+}
