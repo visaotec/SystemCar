@@ -1,5 +1,5 @@
 ## SYSTEMCAR - é um  sistema para gerenciar  estacionamentos desenvolvido com framework codeigniter na versão do PHP 7.4
-## O Sistema é distribuido de forma gratuita, sendo o seu código livre para quaisquer alteraçoes, temos outros projetos se alguém quiser conhecer entre em contato conosco. 
+## O Sistema é distribuído de forma gratuita, sendo o seu código livre para quaisquer alterações. Temos outros projetos se alguém quiser conhecer entre em contato conosco. 
 
 ### Instruções de instalação:
 * Crie um banco de dados em localhost ou online
