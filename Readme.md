@@ -12,3 +12,4 @@
 ![tela02](https://user-images.githubusercontent.com/35280835/136465643-a6469975-c40a-426a-a708-48220face540.PNG)
 
 #### Caso alguém queira contribuir com o projeto, fique a vontade pra expor suas ideias nas alteraçoes.
+#### Acesse nosso canal no [YOUTUBE](https://www.youtube.com/channel/UCrQgt3TC4XIX9jxLkiENBRA)
