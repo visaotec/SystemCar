@@ -15,7 +15,7 @@
 #### Demostração do sistema [System Car](https://www.youtube.com/watch?v=3pjNhjjOq1g)
 #### Acesse nosso canal no [Youtube](https://www.youtube.com/channel/UCrQgt3TC4XIX9jxLkiENBRA)
 ##
-### Queremos que as boas ideias se multipliquem e alcancem o maior número possível de beneficiados. faça parte do nosso projeto!  
+### Queremos que as boas ideias se multipliquem e alcancem o maior número possível de beneficiados. Faça parte do nosso projeto!  
 * Faça um fork
 * Crie o branch da sua contrinuição
 * Solicite um Pull Request do seu novo branch
