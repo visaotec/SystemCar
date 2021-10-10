@@ -18,5 +18,5 @@
 ##
 ### Queremos que as boas ideias se multipliquem e alcancem o maior número possível de beneficiados. Faça parte do nosso projeto!  
 * Faça um fork
-* Crie o branch da sua contrinuição
+* Crie o branch da sua contribuição
 * Solicite um Pull Request do seu novo branch
