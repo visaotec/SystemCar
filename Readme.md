@@ -12,6 +12,10 @@
 
 ![tela02](https://user-images.githubusercontent.com/35280835/136465643-a6469975-c40a-426a-a708-48220face540.PNG)
 
-#### Caso alguém queira contribuir com o projeto, fique a vontade pra expor suas ideias e fazer alterações.
 #### Demostração do sistema [System Car](https://www.youtube.com/watch?v=3pjNhjjOq1g)
 #### Acesse nosso canal no [Youtube](https://www.youtube.com/channel/UCrQgt3TC4XIX9jxLkiENBRA)
+##
+### Queremos que as boas ideias se multipliquem e alcancem o maior número possível de beneficiados. faça parte do nosso projeto!  
+* Faça um fork
+* Crie o branch da sua contrinuição
+* Solicite um Pull Request do seu novo branch
